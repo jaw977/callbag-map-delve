@@ -1,12 +1,12 @@
 {
   "name": "callbag-map-delve",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Callbag operator that applies a transformation, which may be dot-notated path, on data passing through it",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jaw977/callbag-map-delve.git"
   },
-  "main": "readme.js",
+  "main": "index.js",
   "scripts": {
     "test": "tape test.js"
   },

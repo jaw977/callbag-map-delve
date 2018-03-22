@@ -1,5 +1,5 @@
 const test = require('tape');
-const map = require('./readme');
+const map = require('./index');
 const pipe = require('callbag-pipe');
 const fromIter = require('callbag-from-iter');
 const pump = require('callbag-pump');
